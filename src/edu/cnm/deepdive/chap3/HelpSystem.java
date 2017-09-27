@@ -16,7 +16,7 @@ public class HelpSystem {
     System.out.println(" 2. switch");
     System.out.println("Choose one: ");
 
-    //system input works with throw
+    //system input works with throw.
     choice = (char) System.in.read();
 
     switch(choice) {
